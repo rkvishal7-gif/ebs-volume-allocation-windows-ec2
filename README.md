@@ -103,12 +103,12 @@ The additional EBS volume of approximately 12 GB was allocated, formatted, and a
 
 **1. Windows EC2 instance in the Running state**
 
-![Windows EC2 instance running in the AWS console](ec2-instance-running.jpg)
+![Windows EC2 instance running in the AWS console](WhatsApp%20Image%202026-11-25%20at%2011.58.13%20AM.jpeg)
 
 The instance (`server 1`, type `t3.large`) is in the **Running** state in the EC2 console. The AWS account details are blurred for privacy.
 
 **2. New volume allocated and visible in File Explorer**
 
-![New volume shown in This PC after allocation](volume-allocated-this-pc.jpg)
+![New volume shown in This PC after allocation](WhatsApp%20Image%202026-11-25%20at%2011.58.23%20AM.jpeg)
 
 After allocation, the additional volume appears under **Devices and drives** as **New Volume (A:)**, with 11.9 GB free of 11.9 GB, alongside the system drive **Windows (C:)**.
