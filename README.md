@@ -109,6 +109,6 @@ The instance (`server 1`, type `t3.large`) is in the **Running** state in the EC
 
 **2. New volume allocated and visible in File Explorer**
 
-![New volume shown in This PC after allocation](WhatsApp%20Image%202026-11-23%20at%204.56.24%20PM.jpeg)
+![New volume shown in This PC after allocation](volume-allocated-this-pc.jpg)
 
 After allocation, the additional volume appears under **Devices and drives** as **New Volume (A:)**, with 11.9 GB free of 11.9 GB, alongside the system drive **Windows (C:)**.
